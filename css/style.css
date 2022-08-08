@@ -1,6 +1,6 @@
 /* $accentColor = #3eaf7c // 主题色 */
 
-#app .navbar .home-link span:before{
+/* #app .navbar .home-link span:before{
     display: inline-block;
     content:'';
     width: 3rem;
@@ -8,7 +8,7 @@
     background:url('../img/logo.png') no-repeat;
     background-size:100% 100%;
     vertical-align: middle;
-}
+} */
 .page .page-title{
 	max-width:840px !important;
 }

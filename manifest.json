@@ -1,10 +1,10 @@
 {
-  "name": "君哥聊編程",
-  "short_name": "君哥",
+  "name": "佳榕的博客",
+  "short_name": "佳榕",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#2196f3",
-  "description": "君哥聊編程主页",
+  "description": "佳榕的博客首页",
   "theme_color": "blue",
   "icons": [
     {
